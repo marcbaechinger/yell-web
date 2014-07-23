@@ -6,7 +6,7 @@
 			label = document.createElement("label");
 		
 		el.classList.add("yell-node");
-		el.setAttribute("id", yel.url);
+		el.setAttribute("id", yel.uuid);
 		
 		img.setAttribute("width", "100%");	
 		img.src = yel.url;

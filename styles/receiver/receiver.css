@@ -34,20 +34,65 @@ html, body {
 	width: 100%;
 	z-index: 0;
 }
+
 #yell-list {
-	margin-top: 2%;
+	margin-top: 5%;
 	position: absolute;
 	width: 100%;
 	z-index: 100;
 }
+.plus0 #yell-list {
+	margin-top: 2.5%;
+}
 .yell-node {
 	width: 31%;
-	margin-left: 1%;
-	margin-right: 1%;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 3em;
+}
+
+.plus4 .yell-node,
+.plus6 .yell-node,
+.plus8 .yell-node,
+.plus9 .yell-node {
+	float: left;
+	margin-left: inherit;
+	margin-right: inherit;
+	width: 50%;
+	padding-left: 10%;
+	padding-right: 10%;
+	height: 200px;
+}
+.plus4 .yell-node {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.plus1 .yell-node {
+	width: 60%;
+	height: 300px;
+	margin-top: 40px;
+}
+.plus2 .yell-node {
+	width: 40%;
+	height: 190px;
+}
+.plus0 .yell-node {
+	width: 80%;
+	margin-top: 18%;
+}
+.plus6 .yell-node {
+	height: 120px;
+}
+.plus8 .yell-node,
+.plus9 .yell-node {
+	width: 33%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.plus9 .yell-node {
+	height: 124px;
 }
 
 .yell-node > label {
@@ -59,5 +104,4 @@ html, body {
 	overflow: hidden;
 	white-space: nowrap;
 	margin-right: 5%;
-	
 }
