@@ -1,0 +1,59 @@
+[
+	{
+		"uuid": "1234",
+		"title": "Stadtkirche",
+		"description": "Stadtkirche focus on .... The Swissc Science Center focus on .... The Swissc Science Center focus on .... The Swissc Science Center focus on .... The Swissc Science Center focus on .... The Swissc Science Center focus on .... ",
+		"image": "http://images.gadmin.st.s3.amazonaws.com/24158/images/buehne/zh_winterthur_so_xx_00386a1-1.jpg",
+		"location": {
+			"lat": 47.505695,
+			"lng": 8.741478
+		},
+		"paragraphs": [
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa."
+		]
+	},
+	{
+		"uuid": "11234",
+		"title": "Steinberggase",
+		"description": "Steinberggase. The Swissc Science Center focus on .... The Swissc Science Center focus on .... The Swissc Science Center focus on .... The Swissc Science Center focus on .... The Swissc Science Center focus on .... The Swissc Science Center focus on .... ",
+		"image": "http://www.landbote.ch/typo3temp/pics/029c035eb3.jpg",
+		"location": {
+			"lat": 47.513976,
+			"lng": 8.764373
+		},
+		"paragraphs": [
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa."
+		]
+	},
+	{
+		"uuid": "11236",
+		"title": "Heiligberg",
+		"description": "Heiligberg. The Swissc Science Center focus on .... The Swissc Science Center focus on .... The Swissc Science Center focus on .... The Swissc Science Center focus on .... The Swissc Science Center focus on .... The Swissc Science Center focus on .... ",
+		"image": "images/winterthur_stadthaus.jpg",
+		"location": {
+			"lat": 47.5010018,
+			"lng": 8.7314219
+		},
+		"paragraphs": [
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa.",
+			"asdsdasdas asd asd as das dsa d sadas dsa sdasd sa."
+		]
+	}
+]
